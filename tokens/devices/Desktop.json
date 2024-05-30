@@ -1,0 +1,262 @@
+{
+  "assets": {
+    "logoType": {
+      "brand-logo-type": {
+        "value": "Logo",
+        "type": "text",
+        "parent": "devices/Desktop",
+        "description": ""
+      }
+    }
+  },
+  "size": {
+    "spacing": {
+      "resp": {
+        "sm": {
+          "value": "{size.unit-2}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "md": {
+          "value": "{size.unit-4}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "lg": {
+          "value": "{size.unit-6}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "xl": {
+          "value": "{size.unit-8}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "default": {
+          "value": "{size.spacing.resp.md}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "2xl": {
+          "value": "{size.unit-10}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "3xl": {
+          "value": "{size.unit-12}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        }
+      },
+      "paddingBody": {
+        "value": "{size.spacing.resp.lg}",
+        "type": "dimension",
+        "parent": "devices/Desktop",
+        "description": ""
+      }
+    },
+    "width": {
+      "dropdown": {
+        "value": "{size.unit-56}",
+        "type": "dimension",
+        "parent": "devices/Desktop",
+        "description": ""
+      }
+    },
+    "icon": {
+      "resp": {
+        "lg": {
+          "value": "{size.unit-6}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "md": {
+          "value": "{size.unit-4}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "sm": {
+          "value": "{size.unit-2}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "xl": {
+          "value": "{size.unit-8}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "2xl": {
+          "value": "{size.unit-10}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "3xl": {
+          "value": "{size.unit-12}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        }
+      }
+    },
+    "fonts": {
+      "resp": {
+        "heading-1": {
+          "value": "{size.unit-10}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "display-lg": {
+          "value": "{size.unit-15}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "display-md": {
+          "value": "{size.unit-13}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "display-sm": {
+          "value": "{size.unit-11}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "heading-2": {
+          "value": "{size.unit-9}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "heading-3": {
+          "value": "{size.unit-8}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "heading-4": {
+          "value": "{size.unit-7}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "heading-5": {
+          "value": "{size.unit-6}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "heading-6": {
+          "value": "{size.unit-5}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "label-lg": {
+          "value": "{size.unit-OG-4p5}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "label-md": {
+          "value": "{size.unit-4}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "label-sm": {
+          "value": "{size.unit-OG-3p5}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "label-xs": {
+          "value": "{size.unit-3}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "label-mi": {
+          "value": "{size.unit-OG-2p5}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "label-na": {
+          "value": "{size.unit-OG-2p25}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "paragraph-md": {
+          "value": "{size.unit-4}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "paragraph-sm": {
+          "value": "{size.unit-OG-3p5}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "paragraph-xs": {
+          "value": "{size.unit-3}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "paragraph-mi": {
+          "value": "{size.unit-OG-2p5}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "paragraph-na": {
+          "value": "{size.unit-OG-2p25}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "paragraph-lg": {
+          "value": "{size.unit-OG-4p5}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "overline-sm": {
+          "value": "{size.unit-OG-3p5}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "overline-xs": {
+          "value": "{size.unit-3}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        },
+        "overline-mi": {
+          "value": "{size.unit-OG-2p5}",
+          "type": "dimension",
+          "parent": "devices/Desktop",
+          "description": ""
+        }
+      }
+    }
+  }
+}

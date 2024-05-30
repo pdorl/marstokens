@@ -1,0 +1,2898 @@
+{
+  "color": {
+    "brand": {
+      "primary": {
+        "default": {
+          "value": "#02c00a",
+          "type": "color",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        },
+        "hover": {
+          "value": "#009c07",
+          "type": "color",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        },
+        "pressed": {
+          "value": "#007805",
+          "type": "color",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        },
+        "textOnDefault": {
+          "value": "{color.base.black}",
+          "type": "color",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        },
+        "textOnHover": {
+          "value": "{color.base.black-ns}",
+          "type": "color",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        },
+        "textOnPressed": {
+          "value": "{color.base.black-ns}",
+          "type": "color",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        },
+        "opaque": {
+          "50p": {
+            "value": "#02c00a80",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "20p": {
+            "value": "#02c00a33",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "10p": {
+            "value": "#02c00a1a",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        }
+      },
+      "accent": {
+        "default": {
+          "value": "#ff8a00",
+          "type": "color",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        },
+        "hover": {
+          "value": "#d47300",
+          "type": "color",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        },
+        "pressed": {
+          "value": "#bb6500",
+          "type": "color",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        },
+        "textOnDefault": {
+          "value": "{color.base.black-ns}",
+          "type": "color",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        },
+        "textOnHover": {
+          "value": "{color.base.black-ns}",
+          "type": "color",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        },
+        "textOnPressed": {
+          "value": "{color.base.black-ns}",
+          "type": "color",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        },
+        "opaque": {
+          "50p": {
+            "value": "#02c00a80",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "20p": {
+            "value": "#02c00a33",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "10p": {
+            "value": "#02c00a1a",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        }
+      }
+    },
+    "button": {
+      "primary": {
+        "bold": {
+          "surface": {
+            "default": {
+              "value": "{color.brand.primary.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.brand.primary.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.brand.primary.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.primary.bold.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.primary.bold.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{color.brand.primary.textOnDefault}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.brand.primary.textOnHover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.brand.primary.textOnPressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.brand.primary.textOnDefault}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.brand.primary.textOnDefault}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "border": {
+            "default": {
+              "value": "{color.brand.primary.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.brand.primary.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.brand.primary.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.primary.bold.border.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.primary.bold.border.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          }
+        },
+        "outline": {
+          "surface": {
+            "default": {
+              "value": "{figmaAdmin.fakeFigmaBgLight}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.brand.primary.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.button.primary.outline.border.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.primary.outline.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.primary.outline.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{color.brand.primary.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.brand.primary.textOnHover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.brand.primary.textOnHover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.brand.primary.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.brand.primary.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "border": {
+            "default": {
+              "value": "{color.brand.primary.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.brand.primary.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.brand.primary.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.primary.outline.border.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.primary.outline.border.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          }
+        },
+        "minimal": {
+          "surface": {
+            "default": {
+              "value": "{figmaAdmin.fakeFigmaBgLight}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.brand.primary.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.brand.primary.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.primary.minimal.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.primary.minimal.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{color.brand.primary.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.brand.primary.textOnHover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.brand.primary.textOnPressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.primary.minimal.text.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.primary.minimal.text.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "border": {
+            "default": {
+              "value": "{color.brand.primary.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.brand.primary.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.brand.primary.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.brand.primary.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.brand.primary.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          }
+        }
+      },
+      "accent": {
+        "bold": {
+          "surface": {
+            "default": {
+              "value": "{color.brand.accent.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.brand.accent.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.brand.accent.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.accent.bold.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.accent.bold.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{color.brand.primary.textOnDefault}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.brand.accent.textOnHover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.brand.accent.textOnPressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.brand.primary.textOnDefault}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.brand.primary.textOnDefault}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "border": {
+            "default": {
+              "value": "{color.button.accent.bold.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.button.accent.bold.surface.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.button.accent.bold.surface.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.accent.bold.surface.focus}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.accent.bold.surface.disabled}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          }
+        },
+        "outline": {
+          "surface": {
+            "default": {
+              "value": "{figmaAdmin.fakeFigmaBgLight}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.button.accent.bold.surface.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.button.accent.bold.surface.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.primary.outline.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.primary.outline.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{color.button.accent.bold.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.brand.accent.textOnHover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.brand.accent.textOnHover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.accent.bold.surface.focus}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.accent.bold.surface.disabled}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "border": {
+            "default": {
+              "value": "{color.button.accent.bold.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.button.accent.bold.surface.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.button.accent.bold.surface.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.accent.bold.surface.focus}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.accent.bold.surface.disabled}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          }
+        },
+        "minimal": {
+          "surface": {
+            "default": {
+              "value": "{figmaAdmin.fakeFigmaBgLight}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.button.accent.bold.surface.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.button.accent.bold.surface.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.primary.minimal.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.primary.minimal.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{color.button.accent.bold.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.brand.accent.textOnHover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.brand.accent.textOnPressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.accent.bold.surface.focus}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.accent.bold.surface.disabled}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "border": {
+            "default": {
+              "value": "{color.button.accent.bold.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.button.accent.bold.surface.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.button.accent.bold.surface.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.accent.bold.surface.focus}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.accent.bold.surface.disabled}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          }
+        }
+      },
+      "error": {
+        "bold": {
+          "surface": {
+            "default": {
+              "value": "{color.red.red-60}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.red.red-70}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.red.red-80}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.error.bold.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.error.bold.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{color.base.white-ns}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.base.white-ns}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.base.white-ns}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.base.white-ns}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.base.white-ns}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "border": {
+            "default": {
+              "value": "{color.button.error.bold.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.button.error.bold.surface.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.button.error.bold.surface.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.error.bold.surface.focus}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.error.bold.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          }
+        },
+        "outline": {
+          "surface": {
+            "default": {
+              "value": "{figmaAdmin.fakeFigmaBgLight}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.button.error.bold.surface.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.button.error.bold.surface.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.primary.outline.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.primary.outline.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{color.button.error.bold.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.base.white-ns}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.base.white-ns}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.error.bold.surface.focus}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.error.bold.surface.disabled}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "border": {
+            "default": {
+              "value": "{color.button.error.bold.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.button.error.bold.surface.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.button.error.bold.surface.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.error.bold.surface.focus}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.error.bold.surface.disabled}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          }
+        },
+        "minimal": {
+          "surface": {
+            "default": {
+              "value": "{figmaAdmin.fakeFigmaBgLight}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.button.error.bold.surface.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.button.error.bold.surface.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.primary.minimal.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.primary.minimal.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{color.button.error.bold.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.base.white-ns}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.base.white-ns}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.error.bold.surface.focus}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.error.bold.surface.disabled}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "border": {
+            "default": {
+              "value": "{color.button.error.bold.surface.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.button.error.bold.surface.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.button.error.bold.surface.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.button.error.bold.surface.focus}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.button.error.bold.surface.disabled}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          }
+        }
+      },
+      "secondary": {
+        "bold": {
+          "surface": {
+            "default": {
+              "value": "{color.secondaryBase.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.secondaryBase.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.secondaryBase.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.secondaryBase.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.secondaryBase.default}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "border": {
+            "default": {
+              "value": "{color.base.black-0p}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.base.black-0p}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.base.black-0p}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.base.black-0p}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.base.black-0p}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          }
+        },
+        "outline": {
+          "surface": {
+            "default": {
+              "value": "{figmaAdmin.fakeFigmaBgdark}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.secondaryBase.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.secondaryBase.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{figmaAdmin.fakeFigmaBgdark}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{figmaAdmin.fakeFigmaBgdark}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "border": {
+            "default": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.base.black-0p}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.base.black-0p}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          }
+        },
+        "minimal": {
+          "surface": {
+            "default": {
+              "value": "{figmaAdmin.fakeFigmaBgLight}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.secondaryBase.hover}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.secondaryBase.pressed}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{figmaAdmin.fakeFigmaBgdark}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{figmaAdmin.fakeFigmaBgdark}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "border": {
+            "default": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "hover": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "pressed": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "focus": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            },
+            "disabled": {
+              "value": "{color.base.black}",
+              "type": "color",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          }
+        }
+      }
+    },
+    "focusRing": {
+      "value": "#02c00a80",
+      "type": "color",
+      "parent": "brand/Rootbeer",
+      "description": ""
+    },
+    "link": {
+      "default": {
+        "value": "{color.brand.primary.default}",
+        "type": "color",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "hover": {
+        "value": "{color.brand.primary.hover}",
+        "type": "color",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "pressed": {
+        "value": "{color.brand.primary.pressed}",
+        "type": "color",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "visited": {
+        "value": "{color.brand.primary.default}",
+        "type": "color",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      }
+    },
+    "badge": {
+      "primary": {
+        "surface": {
+          "default": {
+            "value": "{color.brand.primary.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.primary.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.primary.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.primary.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.primary.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{color.brand.primary.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.primary.textOnHover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.primary.textOnPressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.primary.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.primary.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{color.brand.primary.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.primary.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.primary.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.primary.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.primary.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        }
+      },
+      "accent": {
+        "surface": {
+          "default": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.textOnHover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.textOnPressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        }
+      },
+      "info": {
+        "surface": {
+          "default": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.textOnHover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.textOnPressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        }
+      },
+      "success": {
+        "surface": {
+          "default": {
+            "value": "{color.alert.success.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.alert.success.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.alert.success.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.alert.success.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.alert.success.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.textOnHover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.textOnPressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        }
+      },
+      "error": {
+        "surface": {
+          "default": {
+            "value": "{color.alert.error.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.alert.error.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.alert.error.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.alert.error.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.alert.error.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.textOnHover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.textOnPressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{color.alert.error.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.alert.error.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.alert.error.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.alert.error.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.alert.error.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        }
+      },
+      "warning": {
+        "surface": {
+          "default": {
+            "value": "{color.alert.warning.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.alert.warning.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.alert.warning.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.alert.warning.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.alert.warning.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.textOnHover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.textOnPressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{color.alert.warning.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.alert.warning.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.alert.warning.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.alert.warning.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.alert.warning.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        }
+      },
+      "infoLight": {
+        "surface": {
+          "default": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.textOnHover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.textOnPressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        }
+      },
+      "successLight": {
+        "surface": {
+          "default": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.textOnHover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.textOnPressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        }
+      },
+      "warningLight": {
+        "surface": {
+          "default": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.textOnHover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.textOnPressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        }
+      },
+      "errorLight": {
+        "surface": {
+          "default": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.textOnHover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.textOnPressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.textOnDefault}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "hover": {
+            "value": "{color.brand.accent.hover}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{color.brand.accent.pressed}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "focus": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          },
+          "disabled": {
+            "value": "{color.brand.accent.default}",
+            "type": "color",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        }
+      }
+    },
+    "BmenuBg": {
+      "default": {
+        "value": "{color.CmenuBg.Default}",
+        "type": "color",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "hover": {
+        "value": "{color.brand.primary.opaque.10p}",
+        "type": "color",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "pressed": {
+        "value": "{color.brand.primary.opaque.20p}",
+        "type": "color",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "focus": {
+        "value": "{color.CmenuBg.Default}",
+        "type": "color",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "disabled": {
+        "value": "{color.CmenuBg.Default}",
+        "type": "color",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "active": {
+        "value": "{color.CmenuBg.Default}",
+        "type": "color",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "parent": {
+        "value": "{color.CmenuBg.Default}",
+        "type": "color",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      }
+    }
+  },
+  "typography": {
+    "marketing": {
+      "value": "Keania One",
+      "type": "text",
+      "parent": "brand/Rootbeer",
+      "description": ""
+    },
+    "standard": {
+      "value": "Inter",
+      "type": "text",
+      "parent": "brand/Rootbeer",
+      "description": ""
+    },
+    "headings": {
+      "value": "Fjalla One",
+      "type": "text",
+      "parent": "brand/Rootbeer",
+      "description": ""
+    }
+  },
+  "strings": {
+    "logo": {
+      "value": "Cocacola",
+      "type": "text",
+      "parent": "brand/Rootbeer",
+      "description": ""
+    }
+  },
+  "size": {
+    "radius": {
+      "sm": {
+        "value": "{size.unit-2}",
+        "type": "dimension",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "xs": {
+        "value": "{size.unit-1}",
+        "type": "dimension",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "md": {
+        "value": "{size.unit-4}",
+        "type": "dimension",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "default": {
+        "value": "{size.unit-1}",
+        "type": "dimension",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "panel": {
+        "value": "{size.radius.sm}",
+        "type": "dimension",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "input": {
+        "value": "{size.radius.sm}",
+        "type": "dimension",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "button": {
+        "xs": {
+          "value": "{size.radius.default}",
+          "type": "dimension",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        },
+        "sm": {
+          "value": "{size.radius.default}",
+          "type": "dimension",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        },
+        "md": {
+          "value": "{size.radius.default}",
+          "type": "dimension",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        },
+        "lg": {
+          "value": "{size.radius.default}",
+          "type": "dimension",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        }
+      },
+      "defaultButtonTabBadge": {
+        "value": "{size.unit-OG-0p75}",
+        "type": "dimension",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "badge": {
+        "sm": {
+          "value": "{size.radius.default}",
+          "type": "dimension",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        },
+        "xs": {
+          "value": "{size.radius.default}",
+          "type": "dimension",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        },
+        "mi": {
+          "value": "{size.radius.default}",
+          "type": "dimension",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        },
+        "na": {
+          "value": "{size.radius.default}",
+          "type": "dimension",
+          "parent": "brand/Rootbeer",
+          "description": ""
+        }
+      }
+    },
+    "focusRing": {
+      "value": "{size.unit-OG-0p5}",
+      "type": "dimension",
+      "parent": "brand/Rootbeer",
+      "description": ""
+    },
+    "padding": {
+      "default": {
+        "value": "{size.radius.sm}",
+        "type": "dimension",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "xs": {
+        "value": "{size.unit-1}",
+        "type": "dimension",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "sm": {
+        "value": "{size.unit-2}",
+        "type": "dimension",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "md": {
+        "value": "{size.unit-4}",
+        "type": "dimension",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "panel": {
+        "value": "{size.radius.sm}",
+        "type": "dimension",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "input": {
+        "value": "{size.radius.sm}",
+        "type": "dimension",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "topBottom": {
+        "button": {
+          "xs": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "sm": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "md": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "lg": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          }
+        },
+        "badge": {
+          "xs": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "sm": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "md": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "lg": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          }
+        },
+        "input": {
+          "sm": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "md": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "lg": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          }
+        }
+      },
+      "LeftRight": {
+        "tab": {
+          "xs": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "sm": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "md": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "lg": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          }
+        },
+        "button": {
+          "xs": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "sm": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "md": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "lg": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          }
+        },
+        "badge": {
+          "xs": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "sm": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "md": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "lg": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          }
+        },
+        "input": {
+          "sm": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "md": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          },
+          "lg": {
+            "padding": {
+              "value": "{size.radius.sm}",
+              "type": "dimension",
+              "parent": "brand/Rootbeer",
+              "description": ""
+            }
+          }
+        }
+      }
+    },
+    "PREEMPTIVEborder": {
+      "default": {
+        "value": "{size.border.default}",
+        "type": "dimension",
+        "parent": "brand/Rootbeer",
+        "description": ""
+      },
+      "button": {
+        "xs": {
+          "border": {
+            "value": "{size.PREEMPTIVEborder.default}",
+            "type": "dimension",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "sm": {
+          "border": {
+            "value": "{size.PREEMPTIVEborder.default}",
+            "type": "dimension",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "md": {
+          "border": {
+            "value": "{size.PREEMPTIVEborder.default}",
+            "type": "dimension",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "lg": {
+          "border": {
+            "value": "{size.PREEMPTIVEborder.default}",
+            "type": "dimension",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        }
+      },
+      "tab": {
+        "xs": {
+          "border": {
+            "value": "{size.PREEMPTIVEborder.default}",
+            "type": "dimension",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "sm": {
+          "border": {
+            "value": "{size.PREEMPTIVEborder.default}",
+            "type": "dimension",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "md": {
+          "border": {
+            "value": "{size.PREEMPTIVEborder.default}",
+            "type": "dimension",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "lg": {
+          "border": {
+            "value": "{size.PREEMPTIVEborder.default}",
+            "type": "dimension",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        }
+      },
+      "badge": {
+        "xs": {
+          "border": {
+            "value": "{size.PREEMPTIVEborder.default}",
+            "type": "dimension",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "sm": {
+          "border": {
+            "value": "{size.PREEMPTIVEborder.default}",
+            "type": "dimension",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "md": {
+          "border": {
+            "value": "{size.PREEMPTIVEborder.default}",
+            "type": "dimension",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        },
+        "lg": {
+          "border": {
+            "value": "{size.PREEMPTIVEborder.default}",
+            "type": "dimension",
+            "parent": "brand/Rootbeer",
+            "description": ""
+          }
+        }
+      }
+    }
+  },
+  "backgroundBlur": {
+    "sm": {
+      "value": "{size.unit-2}",
+      "type": "dimension",
+      "parent": "brand/Rootbeer",
+      "description": ""
+    },
+    "md": {
+      "value": "{size.unit-4}",
+      "type": "dimension",
+      "parent": "brand/Rootbeer",
+      "description": ""
+    },
+    "lg": {
+      "value": "{size.unit-6}",
+      "type": "dimension",
+      "parent": "brand/Rootbeer",
+      "description": ""
+    },
+    "xl": {
+      "value": "{size.unit-10}",
+      "type": "dimension",
+      "parent": "brand/Rootbeer",
+      "description": ""
+    }
+  }
+}
