@@ -1,0 +1,14 @@
+{
+  "fonts": {
+    "deviceBodyFont": {
+      "value": "SF Pro",
+      "type": "text"
+    }
+  },
+  "strings": {
+    "osName": {
+      "value": "iOS",
+      "type": "text"
+    }
+  }
+}

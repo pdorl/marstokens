@@ -1,0 +1,14 @@
+{
+  "fonts": {
+    "deviceBodyFont": {
+      "value": "Segoe UI",
+      "type": "text"
+    }
+  },
+  "strings": {
+    "osName": {
+      "value": "Windows",
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,588 @@
+{
+  "assets": {
+    "logoType": {
+      "brand-logo-type": {
+        "value": "Logo",
+        "type": "text",
+        "parent": "devices/Tablet",
+        "description": ""
+      }
+    }
+  },
+  "size": {
+    "spacing": {
+      "resp": {
+        "sm": {
+          "value": "{size.unit-2}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "md": {
+          "value": "{size.unit-3}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "lg": {
+          "value": "{size.unit-5}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "xl": {
+          "value": "{size.unit-7}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "default": {
+          "value": "{size.spacing.resp.md}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "2xl": {
+          "value": "{size.unit-9}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "3xl": {
+          "value": "{size.unit-11}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        }
+      },
+      "paddingBody": {
+        "value": "{size.spacing.resp.md}",
+        "type": "dimension",
+        "parent": "devices/Tablet",
+        "description": ""
+      }
+    },
+    "width": {
+      "dropdown": {
+        "value": "{size.unit-70}",
+        "type": "dimension",
+        "parent": "devices/Tablet",
+        "description": ""
+      }
+    },
+    "icon": {
+      "resp": {
+        "lg": {
+          "value": "{size.unit-6}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "md": {
+          "value": "{size.unit-4}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "sm": {
+          "value": "{size.unit-2}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "xl": {
+          "value": "{size.unit-8}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "2xl": {
+          "value": "{size.unit-10}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "3xl": {
+          "value": "{size.unit-12}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        }
+      }
+    },
+    "fonts": {
+      "resp": {
+        "heading-1": {
+          "value": "{size.unit-10}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "display-lg": {
+          "value": "{size.unit-15}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "display-md": {
+          "value": "{size.unit-13}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "display-sm": {
+          "value": "{size.unit-11}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "heading-2": {
+          "value": "{size.unit-9}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "heading-3": {
+          "value": "{size.unit-8}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "heading-4": {
+          "value": "{size.unit-7}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "heading-5": {
+          "value": "{size.unit-6}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "heading-6": {
+          "value": "{size.unit-5}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "label-lg": {
+          "value": "{size.unit-OG-4p5}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "label-md": {
+          "value": "{size.unit-4}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "label-sm": {
+          "value": "{size.unit-OG-3p5}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "label-xs": {
+          "value": "{size.unit-3}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "label-mi": {
+          "value": "{size.unit-OG-2p5}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "label-na": {
+          "value": "{size.unit-OG-2p25}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "paragraph-md": {
+          "value": "{size.unit-4}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "paragraph-sm": {
+          "value": "{size.unit-OG-3p5}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "paragraph-xs": {
+          "value": "{size.unit-3}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "paragraph-mi": {
+          "value": "{size.unit-OG-2p5}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "paragraph-na": {
+          "value": "{size.unit-OG-2p25}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "paragraph-lg": {
+          "value": "{size.unit-OG-4p5}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "overline-sm": {
+          "value": "{size.unit-OG-3p5}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "overline-xs": {
+          "value": "{size.unit-3}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        },
+        "overline-mi": {
+          "value": "{size.unit-OG-2p5}",
+          "type": "dimension",
+          "parent": "devices/Tablet",
+          "description": ""
+        }
+      }
+    }
+  },
+  "als": {
+    "strings": {
+      "deviceType": {
+        "value": "Tablet",
+        "type": "text"
+      }
+    },
+    "size": {
+      "spacing": {
+        "resp": {
+          "sm": {
+            "value": "{prim.size.size-200}",
+            "type": "number"
+          },
+          "md": {
+            "value": "{prim.size.size-300}",
+            "type": "number"
+          },
+          "lg": {
+            "value": "{prim.size.size-500}",
+            "type": "number"
+          },
+          "xl": {
+            "value": "{prim.size.size-700}",
+            "type": "number"
+          },
+          "default": {
+            "value": "{als.size.spacing.resp.md}",
+            "type": "number"
+          },
+          "2xl": {
+            "value": "{prim.size.size-900}",
+            "type": "number"
+          },
+          "3xl": {
+            "value": "{prim.size.size-1100}",
+            "type": "number"
+          }
+        },
+        "mainContent": {
+          "leftRight": {
+            "value": "{alias.size.spacingNonResponsive.xl}",
+            "type": "number"
+          },
+          "top": {
+            "value": "{alias.size.spacingNonResponsive.2xl}",
+            "type": "number"
+          },
+          "bottom": {
+            "value": "{alias.size.spacingNonResponsive.3xl}",
+            "type": "number"
+          }
+        }
+      },
+      "width": {
+        "dropdown": {
+          "value": "{prim.size.size-7000}",
+          "type": "number"
+        },
+        "deviceWidth": {
+          "value": "{alias.size.deviceWidth.tablet}",
+          "type": "number"
+        }
+      },
+      "icon": {
+        "resp": {
+          "lg": {
+            "value": "{prim.size.size-600}",
+            "type": "number"
+          },
+          "md": {
+            "value": "{prim.size.size-400}",
+            "type": "number"
+          },
+          "sm": {
+            "value": "{prim.size.size-200}",
+            "type": "number"
+          },
+          "xl": {
+            "value": "{prim.size.size-800}",
+            "type": "number"
+          },
+          "2xl": {
+            "value": "{prim.size.size-1000}",
+            "type": "number"
+          },
+          "3xl": {
+            "value": "{prim.size.size-1200}",
+            "type": "number"
+          }
+        }
+      },
+      "font": {
+        "responsive": {
+          "textSize": {
+            "heading1": {
+              "value": "{prim.size.size-1000}",
+              "type": "number"
+            },
+            "displayLg": {
+              "value": "{prim.size.size-1500}",
+              "type": "number"
+            },
+            "displayMd": {
+              "value": "{prim.size.size-1300}",
+              "type": "number"
+            },
+            "displaySm": {
+              "value": "{prim.size.size-1100}",
+              "type": "number"
+            },
+            "heading2": {
+              "value": "{prim.size.size-900}",
+              "type": "number"
+            },
+            "heading3": {
+              "value": "{prim.size.size-800}",
+              "type": "number"
+            },
+            "heading4": {
+              "value": "{prim.size.size-700}",
+              "type": "number"
+            },
+            "heading5": {
+              "value": "{prim.size.size-600}",
+              "type": "number"
+            },
+            "heading6": {
+              "value": "{prim.size.size-500}",
+              "type": "number"
+            },
+            "labelLg": {
+              "value": "{prim.size.size-450}",
+              "type": "number"
+            },
+            "labelMd": {
+              "value": "{prim.size.size-400}",
+              "type": "number"
+            },
+            "labelSm": {
+              "value": "{prim.size.size-350}",
+              "type": "number"
+            },
+            "labelXs": {
+              "value": "{prim.size.size-300}",
+              "type": "number"
+            },
+            "labelMi": {
+              "value": "{prim.size.size-250}",
+              "type": "number"
+            },
+            "labelNa": {
+              "value": "{prim.size.size-225}",
+              "type": "number"
+            },
+            "paragraphMd": {
+              "value": "{prim.size.size-400}",
+              "type": "number"
+            },
+            "paragraphSm": {
+              "value": "{prim.size.size-350}",
+              "type": "number"
+            },
+            "paragraphXs": {
+              "value": "{prim.size.size-300}",
+              "type": "number"
+            },
+            "paragraphMi": {
+              "value": "{prim.size.size-250}",
+              "type": "number"
+            },
+            "paragraphNa": {
+              "value": "{prim.size.size-225}",
+              "type": "number"
+            },
+            "paragraphLg": {
+              "value": "{prim.size.size-450}",
+              "type": "number"
+            },
+            "overlineSm": {
+              "value": "{prim.size.size-350}",
+              "type": "number"
+            },
+            "overlineXs": {
+              "value": "{prim.size.size-300}",
+              "type": "number"
+            },
+            "overlineMi": {
+              "value": "{prim.size.size-250}",
+              "type": "number"
+            }
+          },
+          "paragraphSpacing": {
+            "displayLg": {
+              "value": "{prim.size.size-3000}",
+              "type": "number"
+            },
+            "displayMd": {
+              "value": "{prim.size.size-2600}",
+              "type": "number"
+            },
+            "displaySm": {
+              "value": "{prim.size.size-2200}",
+              "type": "number"
+            },
+            "heading1": {
+              "value": "{prim.size.size-2000}",
+              "type": "number"
+            },
+            "heading2": {
+              "value": "{prim.size.size-1800}",
+              "type": "number"
+            },
+            "heading3": {
+              "value": "{prim.size.size-1600}",
+              "type": "number"
+            },
+            "heading4": {
+              "value": "{prim.size.size-1400}",
+              "type": "number"
+            },
+            "heading5": {
+              "value": "{prim.size.size-1200}",
+              "type": "number"
+            },
+            "heading6": {
+              "value": "{prim.size.size-1000}",
+              "type": "number"
+            },
+            "labelLg": {
+              "value": "{prim.size.size-900}",
+              "type": "number"
+            },
+            "labelMd": {
+              "value": "{prim.size.size-800}",
+              "type": "number"
+            },
+            "labelSm": {
+              "value": "{prim.size.size-700}",
+              "type": "number"
+            },
+            "labelXs": {
+              "value": "{prim.size.size-600}",
+              "type": "number"
+            },
+            "labelMi": {
+              "value": "{prim.size.size-500}",
+              "type": "number"
+            },
+            "labelNa": {
+              "value": "{prim.size.size-450}",
+              "type": "number"
+            },
+            "paragraphLg": {
+              "value": "{prim.size.size-900}",
+              "type": "number"
+            },
+            "paragraphMd": {
+              "value": "{prim.size.size-800}",
+              "type": "number"
+            },
+            "paragraphSm": {
+              "value": "{prim.size.size-700}",
+              "type": "number"
+            },
+            "paragraphXs": {
+              "value": "{prim.size.size-600}",
+              "type": "number"
+            },
+            "paragraphMi": {
+              "value": "{prim.size.size-500}",
+              "type": "number"
+            },
+            "paragraphNa": {
+              "value": "{prim.size.size-450}",
+              "type": "number"
+            },
+            "overlineSm": {
+              "value": "{prim.size.size-700}",
+              "type": "number"
+            },
+            "overlineXs": {
+              "value": "{prim.size.size-600}",
+              "type": "number"
+            },
+            "overlineMi": {
+              "value": "{prim.size.size-500}",
+              "type": "number"
+            }
+          }
+        }
+      },
+      "selectOptionsMaxHeight": {
+        "value": "18.75rem",
+        "type": "dimension"
+      }
+    }
+  },
+  "cmp": {
+    "size": {
+      "spacing": {
+        "tooltip": {
+          "padding": {
+            "leftRight": {
+              "value": "0.75rem",
+              "type": "dimension"
+            },
+            "topBottom": {
+              "value": "0.5rem",
+              "type": "dimension"
+            }
+          },
+          "gap": {
+            "horiz": {
+              "value": "0.75rem",
+              "type": "dimension"
+            },
+            "vert": {
+              "value": "0.25rem",
+              "type": "dimension"
+            }
+          }
+        }
+      }
+    }
+  }
+}
