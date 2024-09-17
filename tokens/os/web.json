@@ -1,0 +1,14 @@
+{
+  "fonts": {
+    "deviceBodyFont": {
+      "value": "{typography.font.body}",
+      "type": "text"
+    }
+  },
+  "strings": {
+    "osName": {
+      "value": "Web",
+      "type": "text"
+    }
+  }
+}

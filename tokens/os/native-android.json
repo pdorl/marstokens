@@ -1,0 +1,14 @@
+{
+  "fonts": {
+    "deviceBodyFont": {
+      "value": "Roboto",
+      "type": "text"
+    }
+  },
+  "strings": {
+    "osName": {
+      "value": "Android",
+      "type": "text"
+    }
+  }
+}

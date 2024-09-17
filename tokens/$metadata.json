@@ -1,13 +1,17 @@
 {
   "tokenSetOrder": [
-    "global",
-    "brand/Coke",
-    "brand/Rootbeer",
-    "core/Light",
-    "core/Dark",
+    "brand/brand1",
+    "brand/brand2",
+    "brand/brand3",
     "devices/Desktop",
     "devices/Tablet",
     "devices/Mobile",
-    "_base/Mode 1"
+    "color/Light",
+    "color/Dark",
+    "other/main",
+    "os/web",
+    "os/native-ios",
+    "os/native-android",
+    "os/native-windows"
   ]
 }
